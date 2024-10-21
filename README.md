@@ -7,3 +7,4 @@
 
 ## URL's
 - https://microsoft.github.io/language-server-protocol/overviews/lsp/overview/
+- https://haml.info/docs/yardoc/
