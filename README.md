@@ -8,3 +8,5 @@
 ## URL's
 - https://microsoft.github.io/language-server-protocol/overviews/lsp/overview/
 - https://haml.info/docs/yardoc/
+- https://roobert.github.io/2022/12/03/Extending-Neovim/
+- https://zed.dev/blog/syntax-aware-editing (treesitter)
