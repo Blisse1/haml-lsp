@@ -1,5 +1,5 @@
 ## Step by Step to understand how to implement a LSP for HAML
-- Make something using HAML
+- Make something using HAML (Astro)
 - Understand what is Language Server
 - How does JSON-RPC work
 - How does LSP work using drawings
